@@ -12,5 +12,5 @@
 
 # Desenvolvedor
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/192365429?s=400&u=9062ca027ed74f123ea53f255530ac0112ab3af8&v=4" width=115><br><sub>Adriel Auri</sub>](https://www.linkedin.com/in/adriel-auri-dev/) |  |  
- :-: | -
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/192365429?s=400&u=9062ca027ed74f123ea53f255530ac0112ab3af8&v=4" width=115><br><sub>Adriel Auri</sub>](https://www.linkedin.com/in/adriel-auri-dev/) | 
+| :---: | 
