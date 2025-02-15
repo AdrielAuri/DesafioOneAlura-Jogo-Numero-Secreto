@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto feito no curso de lógica de programação da Alura em parceria com a Oracle Next Education.<br>Link para realizar o teste do projeto: https://jogo-numero-secreto-six-sage.vercel.app/</p>
+<p>Projeto feito no curso de lógica de programação da Alura em parceria com a Oracle Next Education.
 
 ## 🚀 Tecnologias
 <div>
